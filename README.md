@@ -91,7 +91,7 @@ Edit profile
 -Profile → Uploaded Images
 
 ## Wireframes
-<img src="file:///Users/Raif/Downloads/IMG_0981.jpg" width=600>
+<img src="file:///Users/Raif/Downloads/CafeMe%20Spec%20overview.pdf" width=600>
 
 
 ### [BONUS] Digital Wireframes & Mockups
