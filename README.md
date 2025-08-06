@@ -99,7 +99,13 @@ Image is embeded above, but cant get it to show up.
 ### [BONUS] Interactive Prototype
 
 ## Schema 
-
+<div>
+    <a href="https://www.loom.com/share/f111742a683d48708be2e5c9c374986c">
+    </a>
+    <a href="https://www.loom.com/share/f111742a683d48708be2e5c9c374986c">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f111742a683d48708be2e5c9c374986c-ad8bbcf555e356a7-full-play.gif">
+    </a>
+  </div>
 Comeplted so far during sprints: 
 1. Created a new Xcode project using UIKit and Storyboard
 -App is named CafeMe
