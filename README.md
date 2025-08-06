@@ -92,7 +92,7 @@ Edit profile
 
 ## Wireframes
 <img src="file:///Users/Raif/Downloads/CafeMe%20Spec%20overview.pdf" width=600>
-
+Image is embeded above, but cant get it to show up. 
 
 ### [BONUS] Digital Wireframes & Mockups
 
@@ -100,7 +100,30 @@ Edit profile
 
 ## Schema 
 
-[This section will be completed in Unit 9]
+Comeplted so far during sprints: 
+1. Created a new Xcode project using UIKit and Storyboard
+-App is named CafeMe
+-Interface is Storyboard-based
+Initial ViewController was modified to become the Login Screen
+
+2. Tab Bar Navigation
+ -Added a UITabBarController to the storyboard
+-Connected 3 View Controllers to the Tab Bar:
+-Home View
+-Upload View
+- Profile View
+-Each tab has a proper title/icon set
+-Each tab screen is linked to a matching Swift class file
+-Verified tabs show up properly when app runs
+
+3. Login Screen
+ -Reused the initial default ViewController as your Login screen
+ -Added UITextFields and UIButton for user login
+- Renamed the class to LoginViewController (had a crash, but recovered)
+ -Connected the login screen to its .swift file again (or are in process of doing so)
+ -Set the Login screen as the Initial View Controller
+ -Added a segue from the Login button to the Tab Bar Controller
+ -Configured that segue to "Present Modally" and "Full Screen"
 
 ### Models
 
