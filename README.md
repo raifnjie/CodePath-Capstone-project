@@ -140,3 +140,18 @@ Initial ViewController was modified to become the Login Screen
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
+
+
+#Final App design 
+
+Here is my final project video: 
+<div>
+    <a href="https://www.loom.com/share/d448ef19230a4f2bb5d08d8f4c4c358c">
+    </a>
+    <a href="https://www.loom.com/share/d448ef19230a4f2bb5d08d8f4c4c358c">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/d448ef19230a4f2bb5d08d8f4c4c358c-277ac6510cc2f901-full-play.gif">
+    </a>
+  </div>
+
+List of things I completed: 
+-Successfully created home page and logo at the bottom of the list of places. When the user clicks on the given populated cafe it says "details coming soon" and the user is able to return to the hompage to look at the list view of cafe's near. Due to time constraints i was not able to add all features as i planned. My goal for this app moving forward is to add pictures with a better UI layout that is more interactive and add the tab bar where the user can veiw their profile information and add friends that have the app as well. 
